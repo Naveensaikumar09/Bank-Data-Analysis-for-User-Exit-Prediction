@@ -1,4 +1,4 @@
-# AmericanExpress-Data-Analysis-for-User-Exit-Prediction
+# Bank-Data-Analysis-for-User-Exit-Prediction
 Analysing AmEx data for predicting of User Exit or closure of account
 
 I have used Artificial Neural Network for training the model. 
